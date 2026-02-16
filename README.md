@@ -10,3 +10,4 @@ a grandes centros urbanos, turisticos,
 logisticos, universitarios, tecnológicos
 industriales, espirituales, cercania a autopistas
 rutas y caminos con accesos claves, entre otras
+es importante en loteos el timing en el ingreso

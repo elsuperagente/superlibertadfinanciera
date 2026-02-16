@@ -8,3 +8,4 @@ por factores a determinar
 como la ubicación próxima 
 a grandes centros urbanos, turisticos,
 logisticos, universitarios, tecnológicos
+industriales, espirituales, cercania a autopistas

@@ -12,3 +12,4 @@ industriales, espirituales, cercania a autopistas
 rutas y caminos con accesos claves, entre otras
 es importante en loteos el timing en el ingreso
 ya que al principio mientras se va desarrolando
+probablemente no se pagarán impuestos, expensas

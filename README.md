@@ -5,3 +5,4 @@ los terrenos en nuevos loteos
 que tengan una futura proyección
 y en consecuencia revalorización
 por factores a determinar
+como la ubicación próxima 

@@ -17,3 +17,6 @@ una vez que el desarrollo esté
 que empiecen a estar los papeles
 y los gastos mensuales 
 de mantenimiento
+es hora de ir saliendo
+viendo antes si hay perspectiva
+de una revalorización mayor o

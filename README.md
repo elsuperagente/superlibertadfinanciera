@@ -22,4 +22,5 @@ viendo antes si hay perspectiva
 de una revalorización mayor 
 quienes son los vecinos
 que revalorizacion va a tener
-en base a eso o 
+en base a eso a factores
+relacionados a trabajo

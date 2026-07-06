@@ -26,5 +26,6 @@ en base a eso a factores
 relacionados a trabajo
 a rutas y caminos
 que le dan acceso
-condiciones del terrenos
+condiciones del terreno
 escuelas, universidades
+si drena el agua bien

@@ -29,3 +29,4 @@ que le dan acceso
 condiciones del terreno
 escuelas, universidades
 si drena el agua bien
+la comodidad de los ingresos

@@ -29,4 +29,5 @@ que le dan acceso
 condiciones del terreno
 escuelas, universidades
 si drena el agua bien
-la comodidad de los ingresos
+la comodidad de los accesos
+la topologia de la tierra

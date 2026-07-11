@@ -33,3 +33,4 @@ la comodidad de los accesos
 la topologia de la tierra
 cercania de centros médicos
 que tipo de trabajos hay cerca
+área industrial o tecnológica

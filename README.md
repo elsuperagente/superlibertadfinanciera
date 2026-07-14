@@ -36,3 +36,4 @@ que tipo de trabajos hay cerca
 área industrial o tecnológica
 servicios básicos, turismo
 factibilidad cloacas y 
+gas natural

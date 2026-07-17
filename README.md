@@ -38,3 +38,4 @@ servicios básicos, turismo
 factibilidad cloacas y 
 gas natural, si está
 en zona boscosa o
+montañosa o de llano

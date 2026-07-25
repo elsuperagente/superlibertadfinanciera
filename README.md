@@ -46,3 +46,4 @@ clima regular
 probabilidad de incendios
 cerca de sierras, mar o
 llanuras, desiertos
+si hay sal en el ambiente

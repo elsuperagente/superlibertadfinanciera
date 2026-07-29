@@ -49,3 +49,4 @@ llanuras, desiertos
 si hay sal en el ambiente
 que produzca corroción
 si es zona de neblina
+de humedad o

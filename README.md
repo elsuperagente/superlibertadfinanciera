@@ -52,3 +52,4 @@ si es zona de neblina
 de humedad o lluvias
 si hay amplitud térmica
 si hay roca abajo o
+si hay napas de agua

@@ -53,4 +53,5 @@ de humedad o lluvias
 si hay amplitud térmica
 si hay roca abajo o
 si hay napas de agua
-o tierra arenosa
+o tierra arenosa o
+arcillosa o desnivel

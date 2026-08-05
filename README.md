@@ -8,7 +8,8 @@ por factores a determinar
 como la ubicación próxima 
 a grandes centros urbanos, turisticos,
 logisticos, universitarios, tecnológicos
-industriales, espirituales, cercania a autopistas
+industriales, espirituales, 
+cercania a autopistas
 rutas y caminos con accesos claves, entre otras
 es importante en loteos el timing en el ingreso
 ya que al principio mientras se va desarrolando
@@ -56,3 +57,5 @@ si hay napas de agua
 cercanas a la superficie
 o tierra arenosa o
 arcillosa o desnivel
+
+

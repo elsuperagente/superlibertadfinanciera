@@ -7,7 +7,8 @@ y en consecuencia revalorización
 por factores a determinar
 como la ubicación próxima 
 a grandes centros urbanos,
-turisticos, logisticos, universitarios, tecnológicos
+turisticos, universitarios,
+logisticos, tecnológicos, 
 industriales, espirituales, 
 cercania a autopistas
 rutas y caminos con accesos claves, entre otras

@@ -18,11 +18,12 @@ es importante en loteos
 el timing en el ingreso
 ya que al principio mientras
 se va desarrolando
-probablemente no se pagarán
+probablemente no se 
+pagarán
 impuestos, expensas
 una vez que el desarrollo
-esté
-que empiecen a estar los papeles
+esté que empiecen a estar
+los papeles
 y los gastos mensuales 
 de mantenimiento
 es hora de ir saliendo

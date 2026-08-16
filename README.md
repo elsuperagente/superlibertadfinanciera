@@ -27,10 +27,11 @@ los papeles
 y los gastos mensuales 
 de mantenimiento
 es hora de ir saliendo
-viendo antes si hay perspectiva
+viendo antes si hay
+perspectiva
 de una revalorización mayor 
 quienes son los vecinos
-que revalorizacion va a tener
+que revalorización va a tener
 en base a eso a factores
 relacionados a trabajo
 a rutas y caminos

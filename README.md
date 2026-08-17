@@ -31,7 +31,8 @@ viendo antes si hay
 perspectiva
 de una revalorización mayor 
 quienes son los vecinos
-que revalorización va a tener
+que revalorización va
+a tener
 en base a eso a factores
 relacionados a trabajo
 a rutas y caminos

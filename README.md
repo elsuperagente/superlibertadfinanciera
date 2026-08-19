@@ -68,5 +68,6 @@ si hay napas de agua
 cercanas a la superficie
 o tierra arenosa o
 arcillosa o desnivel
+si tiene roca abajo
 
 

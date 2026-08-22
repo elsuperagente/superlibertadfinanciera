@@ -71,5 +71,5 @@ arcillosa o desnivel
 si tiene roca abajo
 si hay limpiar o
 aplanar el terreno
-
+o crear plataforma
 

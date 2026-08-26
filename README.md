@@ -52,8 +52,9 @@ factibilidad cloacas y
 gas natural, si está
 en zona boscosa o
 montañosa o de llano
-cercania a grandes capitales
-o centros urbanos
+cercania a grandes
+capitales o centros
+urbanos
 aptitud para logistica
 clima regular
 probabilidad de incendios

@@ -31,7 +31,8 @@ de mantenimiento
 es hora de ir saliendo
 viendo antes si hay
 perspectiva
-de una revalorización mayor 
+de una revalorización
+mayor 
 quienes son los vecinos
 que revalorización va
 a tener

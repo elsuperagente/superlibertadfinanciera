@@ -10,7 +10,8 @@ proyección y en
 consecuencia 
 revalorización por factores
 a determinar
-como la ubicación próxima 
+como la ubicación 
+próxima 
 a grandes centros urbanos,
 turisticos, universitarios,
 logisticos, tecnológicos, 

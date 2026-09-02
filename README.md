@@ -74,7 +74,8 @@ de humedad o lluvias
 si hay amplitud térmica
 si hay roca abajo o
 si hay napas de agua
-cercanas a la superficie
+cercanas a la 
+superficie
 o tierra arenosa o
 arcillosa o desnivel
 si tiene roca abajo

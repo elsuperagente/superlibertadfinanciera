@@ -86,4 +86,5 @@ aplanar el terreno
 o crear plataforma
 si es en montaña
 además en ese caso
+ver si alisar todo
 

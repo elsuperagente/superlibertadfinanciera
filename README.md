@@ -17,7 +17,8 @@ turisticos, universitarios,
 logisticos, tecnológicos, 
 industriales, espirituales, 
 cercania a autopistas
-rutas y caminos con accesos
+rutas y caminos
+con accesos
 claves, entre otras
 es importante en loteos 
 el timing en el ingreso

@@ -56,7 +56,8 @@ médicos
 que tipo de trabajos hay
 cerca área industrial 
 o tecnológica
-servicios básicos, turismo
+servicios básicos,
+turismo
 factibilidad cloacas y 
 gas natural, si está
 en zona boscosa o

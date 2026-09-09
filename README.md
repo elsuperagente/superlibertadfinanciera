@@ -28,7 +28,8 @@ se va desarrolando
 probablemente no se 
 pagarán
 impuestos, expensas
-una vez que el desarrollo
+una vez que 
+el desarrollo
 esté que empiecen a estar
 los papeles
 y los gastos mensuales 

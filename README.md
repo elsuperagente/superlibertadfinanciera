@@ -8,7 +8,8 @@ loteos que tengan
 una futura 
 proyección y en 
 consecuencia 
-revalorización por factores
+revalorización por
+factores
 a determinar
 como la ubicación 
 próxima 

@@ -13,7 +13,8 @@ factores
 a determinar
 como la ubicación 
 próxima 
-a grandes centros urbanos,
+a grandes centros
+urbanos,
 turisticos, universitarios,
 logisticos, tecnológicos, 
 industriales, espirituales, 

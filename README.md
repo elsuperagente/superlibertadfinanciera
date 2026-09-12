@@ -71,7 +71,8 @@ capitales o centros
 urbanos
 aptitud para logistica
 clima regular
-probabilidad de incendios
+probabilidad de 
+incendios
 cerca de sierras, mar o
 llanuras, desiertos
 si hay sal en el

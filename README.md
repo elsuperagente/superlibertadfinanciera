@@ -44,7 +44,8 @@ mayor
 quienes son los vecinos
 que revalorización va
 a tener
-en base a eso a factores
+en base a eso a 
+factores
 relacionados a trabajo
 a rutas y caminos
 que le dan acceso

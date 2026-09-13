@@ -69,7 +69,8 @@ montañosa o de llano
 cercania a grandes
 capitales o centros
 urbanos
-aptitud para logistica
+aptitud para
+logistica
 clima regular
 probabilidad de 
 incendios

@@ -15,7 +15,8 @@ como la ubicación
 próxima 
 a grandes centros
 urbanos,
-turisticos, universitarios,
+turisticos, 
+universitarios,
 logisticos, tecnológicos, 
 industriales, espirituales, 
 cercania a autopistas

@@ -17,7 +17,8 @@ a grandes centros
 urbanos,
 turisticos, 
 universitarios,
-logisticos, tecnológicos, 
+logisticos,
+tecnológicos, 
 industriales, espirituales, 
 cercania a autopistas
 rutas y caminos

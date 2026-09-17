@@ -19,7 +19,8 @@ turisticos,
 universitarios,
 logisticos,
 tecnológicos, 
-industriales, espirituales, 
+industriales, 
+espirituales, 
 cercania a autopistas
 rutas y caminos
 con accesos

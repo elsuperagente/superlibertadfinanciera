@@ -27,7 +27,8 @@ con accesos
 claves, entre otras
 es importante 
 en loteos 
-el timing en el ingreso
+el timing en
+el ingreso
 ya que al principio
 mientras
 se va desarrolando

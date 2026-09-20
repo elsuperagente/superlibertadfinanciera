@@ -37,7 +37,8 @@ pagarán
 impuestos, expensas
 una vez que 
 el desarrollo
-esté que empiecen a estar
+esté que empiecen
+a estar
 los papeles
 y los gastos mensuales 
 de mantenimiento

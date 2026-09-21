@@ -47,7 +47,8 @@ viendo antes si hay
 perspectiva
 de una revalorización
 mayor 
-quienes son los vecinos
+quienes son
+los vecinos
 que revalorización va
 a tener
 en base a eso a 

@@ -42,7 +42,8 @@ a estar
 los papeles
 y los gastos mensuales 
 de mantenimiento
-es hora de ir saliendo
+es hora de
+ir saliendo
 viendo antes si hay
 perspectiva
 de una revalorización

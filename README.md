@@ -22,7 +22,8 @@ logisticos,
 tecnológicos, 
 industriales, 
 espirituales, 
-cercania a autopistas
+cercania a 
+autopistas
 rutas y caminos
 con accesos
 claves, entre otras
